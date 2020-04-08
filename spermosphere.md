@@ -181,7 +181,7 @@ qiime gneiss dendrogram-heatmap \
 ```
 
 # Dudas para reunión 2020-04-07
-En el material suplementario del paper de ANCOM (Mandal et al., 2015) decía:
+En el material suplementario del paper de ANCOM ([Mandal et al., 2015](https://www.tandfonline.com/doi/full/10.3402/mehd.v26.27663)) decía:
 > As commonly done [5], we restricted the analysis to taxa that are present in at least 25%
 of the samples. This is done because low frequency OTUs are often thought to be difficult to interpret statistically.
 
