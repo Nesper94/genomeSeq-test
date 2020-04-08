@@ -56,7 +56,8 @@ Posteriormente se realizó la inferencia filogenética:
 ```bash
 qiime phylogeny fasttree \
   --i-alignment masked-aligned-rep-seqs-spermosphere.qza \
-  --o-tree fasttree-tree-spermosphere.qza```
+  --o-tree fasttree-tree-spermosphere.qza
+```
   
 ### Fasttree to Newick
 
