@@ -37,7 +37,7 @@ La siguiente es la ruta absoluta del archivo "metadatos.tsv" original:
 El archivo de salida fue visualizado con el comando:
 `qiime tools view taxa-bar-plots.qzv`
 
-![taxa-bar-plot-spermosphere](taxonomy-spermosphere/taxa-bar-plot-spe.png)
+![taxa-bar-plot-spermosphere](figs/taxa-bar-plot-spe.png)
 
 **Fig 1.** Taxonomical bar graphs showing the phyla of bacteria found in the different samples. Colors are presented from the top to the bottom of the graph (A: Ancestral, M: Modern, Soil: Uncultured soil).
 
