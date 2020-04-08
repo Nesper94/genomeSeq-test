@@ -90,7 +90,8 @@ También estoy analizando la composición para saber qué ASVs están en diferen
     --i-table comp-table-spe.qza \
     --m-metadata-file metadatos.tsv \
     --m-metadata-column Plant_status \
-    --o-visualization ancom-plant-status-spe.qzv```
+    --o-visualization ancom-plant-status-spe.qzv
+```
 
 Este último archivo fue transferido a mi laptop:
 
