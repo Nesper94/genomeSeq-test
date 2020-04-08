@@ -101,7 +101,7 @@ Este último archivo fue transferido a mi laptop:
 
 Esta es la visualización:
 
-![Ancom volcano plot spermosphere with taxa](ancom-composition-analysis/ancom-volcano-plot-spe-taxa.png)
+![Ancom volcano plot spermosphere with taxa](figs/ancom-volcano-plot-spe-taxa.png)
 **Fig 2.** ANCOM Volcano plot.
 
 Estas son las entidades taxonómicas que tenían una abundancia diferente entre las muestras:
@@ -152,6 +152,10 @@ También se agruparon los ASVs por familia y se realizó el análisis ANCOM solo
     --o-visualization ancom-famlvl-cult-spe.qzv
 ```
 **Nota:** ¡Este análisis solo se demoró 22 segundos! Los ANCOM anteriores se demoraron más de 15 horas.
+
+El resultado de este último ANCOM fue "No significant features found". Abajo se adjunta el gráfico:
+
+![Ancom volcano plot spermosphere cultured family level](figs/ancom-famlvl-cult-spe.svg)
 
 # 2020-04-01 Reunión Meet
 
