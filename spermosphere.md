@@ -31,7 +31,7 @@ qiime taxa barplot \
   
 Esto se hizo siguiendo las instrucciones de este enlace: https://chmi-sops.github.io/mydoc_qiime2.html#step-9-assign-taxonomy
 
-La siguiente es la ruta absoluta del archivo "metadatos.tsv" original:
+La siguiente es la ruta absoluta del archivo "metadatos.tsv" original:  
 `/home/nesper/Documentos/maestría/maestría-sistemas-dinámicos/2019-2/semillero-bioinformatica/data/metadatos.tsv`
 
 El archivo de salida fue visualizado con el comando:
@@ -102,6 +102,7 @@ Este último archivo fue transferido a mi laptop:
 Esta es la visualización:
 
 ![Ancom volcano plot spermosphere with taxa](figs/ancom-volcano-plot-spe-taxa.png)
+
 **Fig 2.** ANCOM Volcano plot.
 
 Estas son las entidades taxonómicas que tenían una abundancia diferente entre las muestras:
