@@ -37,7 +37,7 @@ La siguiente es la ruta absoluta del archivo "metadatos.tsv" original:
 El archivo de salida fue visualizado con el comando:
 `qiime tools view taxa-bar-plots.qzv`
 
-![taxa-bar-plot-spermosphere](figs/taxa-bar-plot-spe.png)
+![](figs/taxa-bar-plot-spe.png "Taxa barplot spermosphere")
 
 **Fig 1.** Taxonomical bar graphs showing the phyla of bacteria found in the different samples. Colors are presented from the top to the bottom of the graph (A: Ancestral, M: Modern, Soil: Uncultured soil).
 
@@ -101,7 +101,7 @@ Este último archivo fue transferido a mi laptop:
 
 Esta es la visualización:
 
-![Ancom volcano plot spermosphere with taxa](figs/ancom-volcano-plot-spe-taxa.png)
+![Ancom volcano plot spermosphere with taxa](figs/ancom-volcano-plot-spe-taxa.png "Ancom volcano plot spermosphere with taxa")
 
 **Fig 2.** ANCOM Volcano plot.
 
@@ -156,7 +156,7 @@ También se agruparon los ASVs por familia y se realizó el análisis ANCOM solo
 
 El resultado de este último ANCOM fue "No significant features found". Abajo se adjunta el gráfico:
 
-![Ancom volcano plot spermosphere cultured family level](figs/ancom-famlvl-cult-spe.svg)
+![Ancom volcano plot spermosphere cultured family level](figs/ancom-famlvl-cult-spe.svg "Ancom volcano plot spermosphere cultured family level")
 
 # 2020-04-01 Reunión Meet
 
