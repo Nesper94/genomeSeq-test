@@ -5,6 +5,7 @@ Este repositorio está destinado a llevar un registro del análisis de datos del
 
 Sobre la importancia de tener un "cuaderno de laboratorio" en biología computacional:  
 - Schnell S (2015) Ten Simple Rules for a Computational Biologist’s Laboratory Notebook. PLoS Comput Biol 11(9): e1004385. https://doi.org/10.1371/journal.pcbi.1004385
+- [How to Keep a Lab Notebook for Bioinformatic Analyses](https://blog.addgene.org/how-to-keep-a-lab-notebook-for-bioinformatic-analyses)
 
 Universidad de Antioquia, Colombia.
 
