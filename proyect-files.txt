@@ -1,0 +1,116 @@
+.
+├── cluster-bios
+│   ├── acceso-cluster.txt
+│   ├── Cluster HPC BIOS - Conexión VPN Windows.pdf
+│   └── Guia_vpn.pdf
+├── figures-jcar.odp
+├── otu-table-to-taxonomy-id
+├── proyect-files.txt
+├── rhizosphere
+│   ├── ancom-composition-analysis
+│   │   ├── ancom-plant-status-cultured-rh.qzv
+│   │   ├── ancom-plant-status-rh.qzv
+│   │   ├── ancom-volcano-plot-plant-status-cultured-rh.png
+│   │   ├── ancom-volcano-plot-plant-status-cultured-rh-taxa.png
+│   │   ├── ancom-volcano-plot-plant-status-rh.png
+│   │   ├── ancom-volcano-plot-plant-status-rh-taxa.png
+│   │   ├── ancom-volcano-plot-plant-status-rh-taxa.xcf
+│   │   └── comp-table-rh.qza
+│   ├── bitácora-rizosfera.ipynb
+│   ├── bitácora-rizosfera.md
+│   ├── classifier
+│   │   ├── level-2-bars.svg
+│   │   ├── level-2-legend.svg
+│   │   ├── table-rh.qza
+│   │   ├── taxa-bar-plots-rh.qzv
+│   │   ├── taxonomy-rhizosphere.qza
+│   │   └── taxonomy-rhizosphere.qzv
+│   ├── feature-table.biom
+│   ├── Fig. 2drafts.pptx
+│   ├── metadata_rhizosphere.tsv
+│   ├── metagenomeSeq
+│   │   ├── metagenomeSeq-abund
+│   │   │   ├── CSS-copy.R
+│   │   │   ├── CSS_normalized_spermosphere2.txt
+│   │   │   ├── CSS.R
+│   │   │   ├── current-work.R
+│   │   │   ├── Matriz_final_rhizosphere_asv-copia.tsv
+│   │   │   ├── Matriz_final_rhizosphere_asv.txt
+│   │   │   ├── metadata_rhizosphere.tsv
+│   │   │   ├── normalization-factors-zig-metagenomeSeq.png
+│   │   │   └── taxonomy_final_rhizosphere.tsv
+│   │   ├── metagenomeSeq.pdf
+│   │   └── metagenomeSeq.R
+│   ├── phylogenetic-tree
+│   │   ├── fasttree-tree-rooted-rh.qza
+│   │   ├── phylogeny-rhizosphere.svg
+│   │   └── u3kYs98VpXoTmlpVU8FKwA.svg
+│   ├── rep-seqs-rh.qza
+│   ├── rhizosphere_asv.tsv
+│   ├── table-estefany-rh.qza
+│   └── table-rh.qza
+├── Scripts
+│   ├── 2020-02-16_script-nmds-dos.txt
+│   ├── 2020-02-16_script-nmds.txt
+│   ├── metadata_otu_table_1.txt
+│   ├── metadata_otu_table_2.txt
+│   ├── metadata_otu_table_3.txt
+│   ├── metadata_otu_table_4.txt
+│   ├── metadata_otu_table_5.txt
+│   ├── otu_table_1.biom
+│   ├── otu_table_2.biom
+│   ├── otu_table_3.biom
+│   ├── otu_table_4.biom
+│   ├── otu_table_5.txt
+│   ├── script_1.R
+│   ├── script_2.R
+│   ├── script_3.R
+│   ├── script_4.R
+│   ├── script_5.R
+│   ├── Script_microbiome.txt
+│   └── taxa_table_5.txt
+├── spermosphere
+│   ├── ancom-composition-analysis
+│   │   ├── ancom-famlvl-cult-spe.qzv
+│   │   ├── ancom-famlvl-cult-spe.svg
+│   │   ├── ancom-plant-status-cultured-spe.qzv
+│   │   ├── ancom-plant-status-spe.qzv
+│   │   ├── ancom-volcano-plot-plant-status-cultured-spe.png
+│   │   ├── ancom-volcano-plot-spe.png
+│   │   ├── ancom-volcano-plot-spe-taxa.png
+│   │   └── table-dada2.qza
+│   ├── bitácora-espermosfera.ipynb
+│   ├── bitácora-espermosfera.pdf
+│   ├── gneiss-composition-analysis
+│   │   └── heatmap-spe.qzv
+│   ├── metadatos.tsv
+│   ├── phylogenetic-tree
+│   │   ├── aligned-rep-seqs-spe.qza
+│   │   ├── fasttree-tree-spermosphere.qza
+│   │   ├── masked-aligned-rep-seqs-spermosphere.qza
+│   │   └── phylogenetic-tree.pdf
+│   ├── rep-seqs-dada2.qza
+│   ├── table-dada2.qza
+│   └── taxonomy-spermosphere
+│       ├── phylogenetic-tree
+│       │   ├── bitácora-trabajo-espermosfera.ipynb
+│       │   ├── metadatos.tsv
+│       │   ├── table-dada2.qza
+│       │   ├── taxa-bar-plots.qzv
+│       │   └── taxtable
+│       │       ├── collapsed_table.qza
+│       │       └── feature-table-taxonomy.tsv
+│       ├── taxa-bar-plot-spe.png
+│       ├── taxonomy.qza
+│       └── taxonomy.qzv
+├── vpnbios-jeperezj
+│   ├── bios.conf
+│   ├── ca.crt
+│   ├── dh2048.pem
+│   ├── jeperezj.crt
+│   ├── jeperezj.csr
+│   ├── jeperezj.key
+│   └── ta.key
+└── vpnbios-jeperezj.zip
+
+16 directories, 97 files
