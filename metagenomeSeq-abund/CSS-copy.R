@@ -1,48 +1,18 @@
 ###########################################################################################
 #                                                                                         #
-#Scripts to reproduce the Figures  of Pérez-Jaramillo et al., 2016                        #
+#Scripts to reproduce the Figures  of PÃ©rez-Jaramillo et al., 2016                        #
 #Differential abundant features analysis using a Zero Inflated Gaussian Model             #
 #from Paulson et al, 2013.                                                                #
 #                                                                                         #
 #                                                                                         #
-#Juan Esteban Pérez Jaramillo - Victor J. Carrión                                         #
+#Juan Esteban PÃ©rez Jaramillo - Victor J. CarriÃ³n                                         #
 #Netherlands Institute of Ecology                                                         #
 #j.perez@nioo.knaw.nl                                                                     #
 #biojep@gmail.com                                                                         #
 ###########################################################################################
 
-library("mime")
-library("httpuv")
-library("metagenomeSeq")
-library("ggplot2")
-library("NetComp")
 
-#####Agricultural#####
 
-getwd()
-tmp = loadMeta("Matriz_final_rhizosphere_asv-copia.tsv", sep = "\t") #Cargar tabla de ASVs
-taxa = read.delim("taxonomy_final_rhizosphere.tsv", header=TRUE, row.names = 1, stringsAsFactors = FALSE, sep = "\t") #Cargar taxonomía
-mapfile = loadPhenoData("metadata_rhizosphere.tsv", tran = TRUE) #Cargar metadatos
-phenotypeData = AnnotatedDataFrame(mapfile) #Convertir metadatos
-OTUdata = AnnotatedDataFrame(taxa) #Convertir taxonomía
-obj = newMRexperiment(tmp$counts, phenoData = phenotypeData, featureData = OTUdata)
-head(MRcounts(obj[, 1:36])) #Mirar Columnas#
-
-#calculating the normalization factors
-p2 = cumNormStat(obj, pFlag = TRUE, main = "Normalization factors")
-obj = cumNorm(obj, p = cumNormStatFast(obj))
-normFactor = normFactors(obj)
-normFactor = log2(normFactor/median(normFactor) + 1)
-settings = zigControl(maxit = 10, verbose = TRUE) #Configuration for fitZig function, maxit: maximum iterations
-Accession = pData(obj)$Accession
-mod = model.matrix(~Accession)
-colnames(mod) = levels(Accession)
-colnames(mod)
-
-####Normalization to export####
-
-mat = MRcounts(obj, norm = TRUE, log = TRUE)
-#mat #See created object
 
 #Exporting Normalization####
 exportMat(mat, file = file.path("/home/nesper/Documentos/genomeseq/rhizosphere/metagenomeSeq/datos-estefany/CSS_normalized_spermosphere2.txt")) #Colocar la ruta y el nombre del archivo#
