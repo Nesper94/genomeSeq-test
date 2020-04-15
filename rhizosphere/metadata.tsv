@@ -1,0 +1,38 @@
+SampleID	SampleID_publication	Accession	Sample_type	Plant_species	Soil _type	Plant_status_CIAT_passport	Plant_status
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical
+A1_1	sample-1	A1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Ancestral
+A1_2	sample-2	A1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Ancestral
+A1_3	sample-3	A1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Ancestral
+A1_4	sample-4	A1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Ancestral
+A2_1	sample-5	A2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Ancestral
+A2_2	sample-6	A2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Ancestral
+A2_3	sample-7	A2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Ancestral
+A2_4	sample-8	A2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Ancestral
+L1_1	sample-9	L1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Landrace
+L1_2	sample-10	L1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Landrace
+L1_3	sample-11	L1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Landrace
+L1_4	sample-12	L1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Landrace
+M1_1	sample-13	M1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Modern
+M1_2	sample-14	M1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Modern
+M1_3	sample-15	M1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Modern
+M1_4	sample-16	M1	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Wild	Modern
+M2_1	sample-17	M2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Modern
+M2_2	sample-18	M2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Modern
+M2_3	sample-19	M2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Modern
+M2_4	sample-20	M2	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Landrace	Modern
+M3_1	sample-21	M3	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M3_2	sample-22	M3	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M3_3	sample-23	M3	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M3_4	sample-24	M3	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M4_1	sample-25	M4	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M4_2	sample-26	M4	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M4_3	sample-27	M4	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M4_4	sample-28	M4	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M5_1	sample-29	M5	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M5_2	sample-30	M5	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M5_3	sample-31	M5	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+M5_4	sample-32	M5	Rhizospheric_soil	Phaseoulus vulgaris	Agricultural	Variety	Modern
+S_1	sample-33	Soil	Bulk_soil	NA	Agricultural	Bulk_soil	NA
+S_2	sample-34	Soil	Bulk_soil	NA	Agricultural	Bulk_soil	NA
+S_3	sample-35	Soil	Bulk_soil	NA	Agricultural	Bulk_soil	NA
+S_4	sample-36	Soil	Bulk_soil	NA	Agricultural	Bulk_soil	NA
