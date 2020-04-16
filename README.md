@@ -1,18 +1,20 @@
 # genomeSeq
-Proyecto de investigación en metagenómica y microbioma.
+Research project in metagenomics and microbiome.
 
-Este repositorio está destinado a llevar un registro del análisis de datos del proyecto y compartir scripts y códigos.
+This repository is destined to keep register of the data analysis and to share scripts and code.
 
-## Descripción de los archivos en este repositorio
-- [bitácora-espermosfera.ipynb](bitácora-espermosfera.ipynb) lleva un registro del análisis de datos de muestras de suelo espermosférico de diferentes accesiones de *Phaseolus vulgaris*.
-- [bitácora-rizosfera.md](bitácora-rizosfera.md) lleva un registro del análisis de datos de muestras de suelo rizosférico de diferentes accesiones de *Phaseolus vulgaris*.
-- [proyect-files.txt](proyect-files.txt) muestra una lista de los archivos del proyecto en formato de árbol.
-- La carpeta [metagenomeSeq-abund](metagenomeSeq-abund/) contiene datos concernientes al análisis de abundancia diferencial realizado con el paquete metagenomeSeq de R.
+## Description of files in this repository
+- [bitácora-espermosfera.ipynb](bitácora-espermosfera.ipynb) keeps a record of the data analysis of spermospheric soil samples coming from different accessions of *Phaseolus vulgaris*.
+- [bitácora-rizosfera.md](bitácora-rizosfera.md) keeps a record of the data analysis of rhizospheric soil samples coming from different accessions of *Phaseolus vulgaris*.
+- [proyect-files.txt](proyect-files.txt) shows a list of project files in tree format.
+- The directory [metagenomeSeq-abund](metagenomeSeq-abund/) contains data concerning differential abundance analysis carried out with metagenomeSeq package in R.
+- The directory [spermosphere](spermosphere/) contains the files *metadata.tsv*, *table.qza* and *rep-seqs.qza* from the spermosphere data.
+- The directory [rhizosphere](rhizosphere/) contains the files *metadata.tsv*, *table.qza* and *rep-seqs.qza* from the rhizosphere data.
 
-## Muy buen review sobre el análisis de microbiomas:
+## Very nice review about microbiome analysis:
 - Knight, R., Vrbanac, A., Taylor, B.C. et al. Best practices for analysing microbiomes. Nat Rev Microbiol 16, 410–422 (2018). https://doi.org/10.1038/s41579-018-0029-9
 
-## Sobre la importancia de tener un "cuaderno de laboratorio" en biología computacional:  
+## On the importance of keeping a laboratory notebook (even if working in bioinformatics):  
 - Schnell S (2015) Ten Simple Rules for a Computational Biologist’s Laboratory Notebook. PLoS Comput Biol 11(9): e1004385. https://doi.org/10.1371/journal.pcbi.1004385
 - [How to Keep a Lab Notebook for Bioinformatic Analyses](https://blog.addgene.org/how-to-keep-a-lab-notebook-for-bioinformatic-analyses)
 - [How to keep a lab notebook](https://www.sciencemag.org/careers/2019/09/how-keep-lab-notebook)
