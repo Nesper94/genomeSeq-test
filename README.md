@@ -5,7 +5,7 @@ This repository is destined to keep register of the data analysis and to share s
 
 ## Description of files in this repository
 - [bitácora-espermosfera.ipynb](bitácora-espermosfera.ipynb) keeps a record of the data analysis of spermospheric soil samples coming from different accessions of *Phaseolus vulgaris*.
-- [bitácora-rizosfera.md](bitácora-rizosfera.md) keeps a record of the data analysis of rhizospheric soil samples coming from different accessions of *Phaseolus vulgaris*.
+- [rizhosphere-logbook.ipynb](rhizosphere/rizhosphere-logbook.ipynb) keeps a record of the data analysis of rhizospheric soil samples coming from different accessions of *Phaseolus vulgaris*.
 - [proyect-files.txt](proyect-files.txt) shows a list of project files in tree format.
 - The directory [metagenomeSeq-abund](metagenomeSeq-abund/) contains data concerning differential abundance analysis carried out with metagenomeSeq package in R.
 - The directory [spermosphere](spermosphere/) contains the files *metadata.tsv*, *table.qza* and *rep-seqs.qza* from the spermosphere data.
