@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Callahan, Benjamin J
+AU  - McMurdie, Paul J
+AU  - Rosen, Michael J
+AU  - Han, Andrew W
+AU  - Johnson, Amy Jo A
+AU  - Holmes, Susan P
+PY  - 2016
+DA  - 2016/07/01
+TI  - DADA2: High-resolution sample inference from Illumina amplicon data
+JO  - Nature Methods
+SP  - 581
+EP  - 583
+VL  - 13
+IS  - 7
+AB  - DADA2 is an open-source software package that denoises and removes sequencing errors from Illumina amplicon sequence data to distinguish microbial sample sequences differing by as little as a single nucleotide.
+SN  - 1548-7105
+UR  - https://doi.org/10.1038/nmeth.3869
+DO  - 10.1038/nmeth.3869
+ID  - Callahan2016
+ER  - 
