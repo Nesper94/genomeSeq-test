@@ -6,8 +6,8 @@ biological sequences from reads.  Forward reads were truncated at position 264
 while Reverse reads were truncated at position 223 in order to discard positions 
 with a Phred score lower than 25. 
 
-The resulting sequences were classified using a Naive Bayes classifier. The
-classifier was trained with the Silva release 132 reference sequences and the
-correspondent Silva taxonomy.
+The resulting sequences were classified using a Naive Bayes classifier
+(Bokulich et al, 2018). The classifier was trained with the Silva release 132
+reference sequences and the correspondent Silva taxonomy.
 
 [1]:https://doi.org/10.1038/nmeth.3869
