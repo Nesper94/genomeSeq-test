@@ -1,3 +1,4 @@
 # Differential abundance analysis with the ASV tables
 
-Differential abundance analysis was performed using the metagenomeSeq package.
+Differential abundance analysis was performed using a Zero Inflated Gaussian
+Model (Paulson et al, 2013) in the metagenomeSeq package.
