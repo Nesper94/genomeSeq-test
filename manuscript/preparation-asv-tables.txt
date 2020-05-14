@@ -2,7 +2,7 @@
 
 Total DNA was extracted from samples and the V3-V4 region of the 16S rRNA
 gene was amplified using the guidelines given by Illumina (ref). Amplicons of
-aproximately 460 bp were sequenced with Illumina MiSeq platform.
+approximately 460 bp were sequenced with Illumina MiSeq platform.
 
 Paired end raw reads were inspected for quality control and processed using DADA2
 R package ([Callahan et al., 2016][1]) in Qiime2 (version 2019.10.0), to infer true
