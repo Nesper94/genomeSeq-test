@@ -4,10 +4,11 @@ Total DNA was extracted from samples and the V3-V4 region of the 16S rRNA
 gene was amplified using the guidelines given by Illumina (ref). Amplicons of
 aproximately 460 bp were sequenced with Illumina MiSeq platform.
 
-Paired end raw reads were inspected for quality and processed using DADA2
-([Callahan et al., 2016][1]) in Qiime2 (version 2019.10.0). Forward reads were
-truncated at position 240 while Reverse reads were truncated at position 200 in
-order to discard positions with a Phred score lower than 25.
+Paired end raw reads were inspected for quality control and processed using DADA2
+R package ([Callahan et al., 2016][1]) in Qiime2 (version 2019.10.0), to infer true
+biological sequences from reads.  Forward reads were truncated at position 264
+while Reverse reads were truncated at position 223 in order to discard positions
+with a Phred score lower than 25.
 
 The resulting sequences were classified using a Naive Bayes classifier
 (Bokulich et al, 2018). The classifier was trained with the SILVA release 132
