@@ -1,0 +1,4 @@
+Group 1,Group 2,Sample size,Permutations,pseudo-F,p-value,q-value
+Ancestral,Modern,32,999,2.8153777764395453,0.001,0.0015
+Ancestral,Soil,12,999,4.634945265947388,0.002,0.002
+Modern,Soil,28,999,6.105477416294494,0.001,0.0015
