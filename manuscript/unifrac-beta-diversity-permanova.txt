@@ -2,12 +2,6 @@ UniFrac beta-diversity and PERMANOVA
 
 Beta-diversity was also measured using the weighted UniFrac metric in Qiime2.
 
-Alternatives:
-[1] We also performed a PERMANOVA using this diversity metric in order to know
-/see/test the hypothesis/
-if samples from Ancestral, Modern, Landrace or Bulk Soil were more similar
-between them than they are to samples from other groups.
-
-[2] We performed a PERMANOVA analysis in order to know if Ancestral, Modern,
-Landrace or Bulk Soil samples had different microbial composition according to
-the weighted UniFrac metric.
+We also performed a PERMANOVA using this diversity metric in order to know
+if Ancestral, Modern, Landrace or Bulk Soil samples were significantly
+different in terms of microbial composition.
