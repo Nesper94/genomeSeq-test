@@ -1,4 +1,8 @@
 # Differential abundance analysis with the ASV tables
 
-Differential abundance analysis was performed using a Zero Inflated Gaussian
-Model (Paulson et al, 2013) in the metagenomeSeq package.
+Differential abundance analysis was performed using a Zero Inflated Gaussian 
+Model (Paulson et al, 2013) in the metagenomeSeq package. We also performed 
+an ANCOM analysis in Qiime2 in order to compare microbial composition of soil 
+samples associated with modern and ancestral plant accessions in both 
+spermosphere and rhizosphere. This analysis was performed at ASV level and 
+also grouping those ASVs at family level.

@@ -1,6 +1,9 @@
 UniFrac beta-diversity and PERMANOVA
 
 Beta-diversity was also measured using the weighted UniFrac metric in Qiime2.
+For this purpose representative sequences were aligned using the MAFFT 
+algorithm and then we constructed the phylogenetic tree with FastTree (Price 
+et al., 2010).
 
 We also performed a PERMANOVA using this diversity metric in order to know
 if Ancestral, Modern, Landrace or Bulk Soil samples were significantly
