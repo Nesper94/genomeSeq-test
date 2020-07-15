@@ -5,7 +5,7 @@ gene was amplified using the guidelines given by Illumina MiSeq System (Illumina
 Amplicons of approximately 460 bp were sequenced with Illumina MiSeq platform.
 
 Paired end raw reads were inspected for quality control and processed using DADA2
-R package ([Callahan et al., 2016][1]) in Qiime2 (version 2019.10.0), to infer true
+([Callahan et al., 2016][1]) in Qiime2 (version 2019.10.0), to infer true
 biological sequences from reads. Forward reads were truncated at position 264
 while Reverse reads were truncated at position 223 in order to discard positions
 with a Phred score lower than 25.
