@@ -3,6 +3,9 @@
 # Script to train a classifier and use it to make a taxonomic classification
 # of our 16S sequences. This script is designed to use with an ASVs table.
 
+# Activate Qiime2 conda environment
+source activate qiime2-2020.8
+
 # Download the 16S database: Silva_132_release.zip
 
 wget -c https://www.arb-silva.de/fileadmin/silva_databases/qiime/Silva_132_release.zip

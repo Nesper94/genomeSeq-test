@@ -2,6 +2,9 @@
 
 # Script to perform a differential abundance analysis using ANCOM in Qiime2
 
+# Activate Qiime2 conda environment
+source activate qiime2-2020.8
+
 # From https://docs.qiime2.org/2020.8/tutorials/moving-pictures/#differential-abundance-testing-with-ancom:
 # "ANCOM assumes that few (less than about 25%) of the features are changing between 
 # groups. If you expect that more features are changing between your groups, you 
