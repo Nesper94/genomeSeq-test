@@ -8,12 +8,12 @@
 # 2020-10-15
 
 filename=$(date +%F_%H%M%S)-"$1"
-cut -f 1,2 "$1" > "$filename" # Obtener solo las 2 primeras columnas
+cut -f 1,2 "$1" > "$filename" # Get only the two first columns
 
-sed -i 's/;/	/g' "$filename" # Reemplazar punto y coma por tabulación
+sed -i 's/;/	/g' "$filename" # Replace semicolon for tab
 
-# Poner nombres a las columnas de la taxonomía
+# Put names to columns of the taxonomy
 sed -i 's/Taxon/Domain	Phylum	Class	Order	Family	Genus	Species/' "$filename"
 
-# Eliminar el prefijo D_#__
+# Remove D_#__ prefix
 sed -i 's/D_[0-9]__//g' "$filename"
