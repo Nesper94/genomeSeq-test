@@ -4,10 +4,12 @@
 # the name of the file to be subsampled and as second argument the number
 # of lines to be sampled.
 #
+# Usage: ./subsample.sh file.tsv <number of rows to sample>
+#
 # Juan Camilo Arboleda Rivera
 # 2020-10-16
 
-filename=subsample-"$1"
+filename=subsample-"$2"-"$1"
 
 # Write header into the new file
 head -n 1 "$1" > "$filename"
