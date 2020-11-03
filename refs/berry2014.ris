@@ -1,0 +1,14 @@
+    
+TY  - JOUR 
+AU  - Berry, David
+AU  - Widder, Stefanie
+PY  - 2014    
+M3  - 10.3389/fmicb.2014.00219     
+SP  - 219
+TI  - Deciphering microbial interactions and detecting keystone species with co-occurrence networks   
+JO  - Frontiers in Microbiology  
+UR  - https://www.frontiersin.org/article/10.3389/fmicb.2014.00219    
+VL  - 5      
+SN  - 1664-302X
+N2  - Co-occurrence networks produced from microbial survey sequencing data are frequently used to identify interactions between community members. While this approach has potential to reveal ecological processes, it has been insufficiently validated due to the technical limitations inherent in studying complex microbial ecosystems. Here, we simulate multi-species microbial communities with known interaction patterns using generalized Lotka-Volterra dynamics. We then construct co-occurrence networks and evaluate how well networks reveal the underlying interactions and how experimental and ecological parameters can affect network inference and interpretation. We find that co-occurrence networks can recapitulate interaction networks under certain conditions, but that they lose interpretability when the effects of habitat filtering become significant. We demonstrate that networks suffer from local hot spots of spurious correlation in the neighborhood of hub species that engage in many interactions. We also identify topological features associated with keystone species in co-occurrence networks. This study provides a substantiated framework to guide environmental microbiologists in the construction and interpretation of co-occurrence networks from microbial survey datasets.
+ER  - 

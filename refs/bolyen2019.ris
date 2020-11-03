@@ -1,0 +1,126 @@
+TY  - JOUR
+AU  - Bolyen, Evan
+AU  - Rideout, Jai Ram
+AU  - Dillon, Matthew R.
+AU  - Bokulich, Nicholas A.
+AU  - Abnet, Christian C.
+AU  - Al-Ghalith, Gabriel A.
+AU  - Alexander, Harriet
+AU  - Alm, Eric J.
+AU  - Arumugam, Manimozhiyan
+AU  - Asnicar, Francesco
+AU  - Bai, Yang
+AU  - Bisanz, Jordan E.
+AU  - Bittinger, Kyle
+AU  - Brejnrod, Asker
+AU  - Brislawn, Colin J.
+AU  - Brown, C. Titus
+AU  - Callahan, Benjamin J.
+AU  - Caraballo-Rodríguez, Andrés Mauricio
+AU  - Chase, John
+AU  - Cope, Emily K.
+AU  - Da Silva, Ricardo
+AU  - Diener, Christian
+AU  - Dorrestein, Pieter C.
+AU  - Douglas, Gavin M.
+AU  - Durall, Daniel M.
+AU  - Duvallet, Claire
+AU  - Edwardson, Christian F.
+AU  - Ernst, Madeleine
+AU  - Estaki, Mehrbod
+AU  - Fouquier, Jennifer
+AU  - Gauglitz, Julia M.
+AU  - Gibbons, Sean M.
+AU  - Gibson, Deanna L.
+AU  - Gonzalez, Antonio
+AU  - Gorlick, Kestrel
+AU  - Guo, Jiarong
+AU  - Hillmann, Benjamin
+AU  - Holmes, Susan
+AU  - Holste, Hannes
+AU  - Huttenhower, Curtis
+AU  - Huttley, Gavin A.
+AU  - Janssen, Stefan
+AU  - Jarmusch, Alan K.
+AU  - Jiang, Lingjing
+AU  - Kaehler, Benjamin D.
+AU  - Kang, Kyo Bin
+AU  - Keefe, Christopher R.
+AU  - Keim, Paul
+AU  - Kelley, Scott T.
+AU  - Knights, Dan
+AU  - Koester, Irina
+AU  - Kosciolek, Tomasz
+AU  - Kreps, Jorden
+AU  - Langille, Morgan G. I.
+AU  - Lee, Joslynn
+AU  - Ley, Ruth
+AU  - Liu, Yong-Xin
+AU  - Loftfield, Erikka
+AU  - Lozupone, Catherine
+AU  - Maher, Massoud
+AU  - Marotz, Clarisse
+AU  - Martin, Bryan D.
+AU  - McDonald, Daniel
+AU  - McIver, Lauren J.
+AU  - Melnik, Alexey V.
+AU  - Metcalf, Jessica L.
+AU  - Morgan, Sydney C.
+AU  - Morton, Jamie T.
+AU  - Naimey, Ahmad Turan
+AU  - Navas-Molina, Jose A.
+AU  - Nothias, Louis Felix
+AU  - Orchanian, Stephanie B.
+AU  - Pearson, Talima
+AU  - Peoples, Samuel L.
+AU  - Petras, Daniel
+AU  - Preuss, Mary Lai
+AU  - Pruesse, Elmar
+AU  - Rasmussen, Lasse Buur
+AU  - Rivers, Adam
+AU  - Robeson, Michael S.
+AU  - Rosenthal, Patrick
+AU  - Segata, Nicola
+AU  - Shaffer, Michael
+AU  - Shiffer, Arron
+AU  - Sinha, Rashmi
+AU  - Song, Se Jin
+AU  - Spear, John R.
+AU  - Swafford, Austin D.
+AU  - Thompson, Luke R.
+AU  - Torres, Pedro J.
+AU  - Trinh, Pauline
+AU  - Tripathi, Anupriya
+AU  - Turnbaugh, Peter J.
+AU  - Ul-Hasan, Sabah
+AU  - van der Hooft, Justin J. J.
+AU  - Vargas, Fernando
+AU  - Vázquez-Baeza, Yoshiki
+AU  - Vogtmann, Emily
+AU  - von Hippel, Max
+AU  - Walters, William
+AU  - Wan, Yunhu
+AU  - Wang, Mingxun
+AU  - Warren, Jonathan
+AU  - Weber, Kyle C.
+AU  - Williamson, Charles H. D.
+AU  - Willis, Amy D.
+AU  - Xu, Zhenjiang Zech
+AU  - Zaneveld, Jesse R.
+AU  - Zhang, Yilong
+AU  - Zhu, Qiyun
+AU  - Knight, Rob
+AU  - Caporaso, J. Gregory
+PY  - 2019
+DA  - 2019/08/01
+TI  - Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2
+JO  - Nature Biotechnology
+SP  - 852
+EP  - 857
+VL  - 37
+IS  - 8
+SN  - 1546-1696
+UR  - https://doi.org/10.1038/s41587-019-0209-9
+DO  - 10.1038/s41587-019-0209-9
+ID  - Bolyen2019
+ER  - 
